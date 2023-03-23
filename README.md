@@ -28,8 +28,8 @@
 
 ### Live Link 
 
-https://zedd-weather.vercel.app
+https://ganesh-weather-app.vercel.app/
 
 ### Please Support By Starring This Project. Follow Me For More Cool Open Source Projects.
 
-https://github.com/adedoyin-emmanuel/
+https://github.com/GANESWARARAO-VASARLA/
